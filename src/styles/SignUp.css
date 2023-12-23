@@ -1,0 +1,32 @@
+.container{
+    background-color: aqua;
+    border-radius: 5px;
+    width: 30%;
+    height:40%;
+    padding: 50px;
+    margin:50px auto;
+    justify-content: center;
+    box-shadow: 0px 0px 15px black;
+}
+.btn-primary{
+    width: 100%;
+    background-color:blue;
+    justify-content: center;
+}
+.btn-primary:hover{
+    color: black;
+    box-shadow: 0px 0px 15px blue;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+p{
+    text-decoration: none;
+    margin-top: 10px;
+}
